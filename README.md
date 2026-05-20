@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TaskFlow - AI-Powered Collaborative Platform
 
 TaskFlow is a modern, real-time productivity platform enhanced with AI capabilities and collaborative tools.
@@ -60,3 +61,7 @@ TaskFlow is a modern, real-time productivity platform enhanced with AI capabilit
 - Register an account on both windows and log in.
 - Create tasks, drag them around, and see them sync instantly.
 - Check the real-time operations feed on the right sidebar.
+=======
+# Taskflow-
+ A real-time collaborative Kanban workspace enhanced with simulated AI assistants, Slack-style team chat, joint whiteboard, voice commands, and productivity analytics. Built with React, Vite, Tailwind CSS, Node.js, Express, Socket.IO, and Prisma.
+>>>>>>> d3d07f2facfed927ea652edc543055a5c7c4040e
